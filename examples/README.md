@@ -37,8 +37,6 @@ Catalyst:
 Q4 FY26 results (Apr 2026) - Watch for Jio ARPU crossing ₹210.
 ```
 
-📄 [View full report](./Reliance_Industries_Report.md) (markdown summary)
-📥 [Download DOCX](./Reliance_Industries_Report.docx)
 
 ---
 
@@ -77,9 +75,6 @@ Top Risk:
 Customer concentration - Top 5 clients = 62% revenue. 
 Loss of any single client = 10-15% revenue hit.
 ```
-
-📄 [View full report](./LatentView_Analytics_Report.md)
-📥 [Download DOCX](./LatentView_Analytics_Report.docx)
 
 ---
 
@@ -125,9 +120,6 @@ This is NOT sustainable. OCF must turn positive in FY26 H1
 or the entire growth story unravels.
 ```
 
-📄 [View full report](./Macfos_Ltd_Report.md)
-📥 [Download DOCX](./Macfos_Ltd_Report.docx)
-
 ---
 
 ### 4. Electronics Manufacturing: Dixon Technologies (DIXON)
@@ -165,9 +157,6 @@ drops to ₹7,800 at 25x.
 Margin of Safety: At ₹13,340 target = 31% upside. 
 Bear case ₹9,500 = 7% downside. R/R = 4.4x
 ```
-
-📄 [View full report](./Dixon_Technologies_Report.md)
-📥 [Download DOCX](./Dixon_Technologies_Report.docx)
 
 ---
 
@@ -211,9 +200,6 @@ Gordon Growth Model: g = 14%, RoE = 16%
   (market pricing in RoE fade to 15%)
 ```
 
-📄 [View full report](./HDFC_Bank_Report.md)
-📥 [Download DOCX](./HDFC_Bank_Report.docx)
-
 ---
 
 ## Comparative Analysis Examples
@@ -247,8 +233,6 @@ If achieved → re-rates to 28x = ₹2,000 (32% upside from CMP)
 Recommendation: 
 Rotate FROM TCS TO Infosys on any dips below ₹1,450
 ```
-
-📄 [View full comparison](./IT_Sector_Comparison.md)
 
 ---
 
@@ -295,8 +279,6 @@ Target:  RELIANCE 35%, HDFCBANK 25%, INFY 25%, TCS 5%,  ITC 10%
 Action: Sell 50% of TCS → Buy INFY
 Expected impact: +3.2% portfolio return over 12M
 ```
-
-📄 [View full portfolio review](./Portfolio_Review_Example.md)
 
 ---
 
@@ -351,8 +333,6 @@ Upside from CMP ₹1,025: 17.2%
 VERDICT: BUY. The turnaround is real, not priced in.
 Entry: CMP to ₹1,050 | Stop: ₹950 (JLR margin fade)
 ```
-
-📄 [View full event analysis](./Tata_Motors_JLR_Turnaround.md)
 
 ---
 
