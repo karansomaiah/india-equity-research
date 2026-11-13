@@ -1,6 +1,16 @@
 # Changelog: india-equity-research
 
-A new skill, separate from `india-equity-report` (which stays unchanged at v1.1.0), so it can be improved incrementally.
+Two-stage, filings-first equity research for NSE/BSE companies. It replaced the earlier single-pass `india-equity-report` skill, which was removed in 0.4.1.
+
+## [0.4.1] — 2026-11-13
+Repository cleanup: this skill is now the only one in the repository.
+
+### Removed
+- The old `india-equity-report` skill (v1.1.0), its root docs (README, INSTALL, FAQ, WALKTHROUGH, QUICK_REFERENCE, BENCHMARK, QUALITATIVE_ANALYSIS, REPOSITORY_SUMMARY, CONTRIBUTING, GITHUB_PUSH_INSTRUCTIONS, the v1.x CHANGELOG, `examples/`) and its installed copy in `~/.claude/skills`.
+
+### Changed
+- New repository README (install via symlink, Stage 1 / Stage 2 usage, maintenance) and `.gitignore`.
+- The old-skill references are gone: the CHANGELOG intro, and the "v1.1 benchmark" wording in the data-sources Yahoo row.
 
 ## [0.4.0] — 2026-11-13
 Full review: one register for thresholds, error fixes, the rest of the 10-year migration, wiring, and a consistency checker.

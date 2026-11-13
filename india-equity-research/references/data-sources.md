@@ -22,7 +22,7 @@ Reliability evidence for the tiers comes from a field test on GRASIM, 25 Sep –
 | 2 | Google Finance card (web search), 5Paisa | — | CMP fallback only. |
 | 2 | MarketScreener | quote page | Shows last close with date; useful as a cross-check. |
 | ❌ | Screener displayed price | — | Often a stale cached price. |
-| ❌ | Yahoo Finance | — | Blocked for CMP (v1.1 benchmark discrepancy). |
+| ❌ | Yahoo Finance | — | Blocked for CMP: its close differed from the official NSE close in earlier testing. |
 | ❌ | Search-result snippet market caps | — | Gave an inconsistent ABCap market cap / P/B (119x) in testing. |
 
 **Market cap:** compute it as CMP × shares outstanding from the annual report share-capital note. Websites may exclude treasury or partly paid shares (Tickertape implied 67.3 Cr Grasim shares vs 68.06 Cr in the annual report).
